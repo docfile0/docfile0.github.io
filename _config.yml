@@ -17,7 +17,7 @@ title: docfile0
 
 # Build settings
 markdown: kramdown
-theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
   name: Thomas (aka. docfile0)
