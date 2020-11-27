@@ -27,7 +27,7 @@ plainwhite:
 
   social_links:
     twitter: docfile0
-    github: docfile
+    github: docfile0
 
 plugins:
   - jekyll-feed
